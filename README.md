@@ -1,4 +1,17 @@
 # al-folio
+Notes by Joana:
+- This worked with Ruby 2.7.2, as described here:
+   https://open-research.gemmadanks.com/tutorials/how-to-use-jekyll-scholar-with-github-pages/
+- How to test locally:
+  Make sure you have the right ruby (or put in bashrc):
+  `rbenv local 2.7.2`
+  Run server locally:
+  `bundle exec jekyll serve --lsi`
+- Deploying:
+  `git add *`  (or add manually)
+  `git commit -m "Update"`
+  `git push`
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
