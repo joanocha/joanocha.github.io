@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I am broadly interested in all aspects surrounding biodiversity, genetics, and evolution. In pursuit of these interests, I have worked with a variety of natural populations and species of mammals (including African antelopes, canids & apes) using diverse approaches, often combining state-of-the-art genomic tools with historical and/or ecological data. The integrative nature of my curiosity and research has led me to many exciting questions/discoveries on the origins of adaptive genetic variation, on the mechanisms shaping mammalian genetic diversity and genome structures, and on how different species respond to shifting selective pressures throughout different spatiotemporal scales. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 
