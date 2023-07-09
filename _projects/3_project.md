@@ -17,7 +17,7 @@ I am also interested in the historical events and paleoclimatic and/or geomorpho
         {% include figure.html path="assets/img/IMG_1494.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_1382.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/IMG_1382.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
