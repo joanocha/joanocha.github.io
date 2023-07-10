@@ -2,7 +2,7 @@
 layout: page
 title: Life in extremes
 description: The genomic basis of desert adaptation  
-img: assets/img/Fennec2_HalimaBOUSADIK.png
+img: assets/img/Cover_Fennec1_HalimaBOUSADIK_CMYK.png
 importance: 1
 category: work
 ---
