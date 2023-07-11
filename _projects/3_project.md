@@ -23,9 +23,8 @@ I am also interested in the historical events and paleoclimatic and/or geomorpho
 <div class="caption">
 </div>
 
-
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_1354.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
