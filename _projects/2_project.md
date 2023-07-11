@@ -2,7 +2,7 @@
 layout: page
 title: genome structures
 description: The role of structural variation in speciation and adaptation
-img: assets/img/translocation.jpg
+img: assets/img/translocation.png
 importance: 2
 category: work
 ---
