@@ -18,5 +18,5 @@ Deserts are bellwethers for climate change and are outstanding natural laborator
     <iframe width="360" height="290" src="https://www.youtube.com/embed/Bj3nsLKdbic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Left: checking body temperature before wildlife collecting blood. Right: Video of a curious Rueppell’s fox inspecting a cage trap at night. Eventually, this fox was captured and sampled, and safely released into the wild. 
+    Left: checking body temperature before collecting blood. Right: Video of a curious Rueppell’s fox inspecting a cage trap at night. Eventually, this fox was captured and sampled, and safely released into the wild. 
 </div>
