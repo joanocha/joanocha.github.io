@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sudmant Lab represents at San Francisco marathon 2023! 
+title: Supporting Sudmant Lab at San Francisco marathon 2023! 
 date: 2023-07-21 
 inline: false
 related_posts: false
