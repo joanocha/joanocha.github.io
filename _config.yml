@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Rocha]
-  first_name: [Joana, L.]
+  last_name: [L. Rocha]
+  first_name: [Joana]
 
   style: apa
   locale: en
