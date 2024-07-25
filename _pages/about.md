@@ -21,14 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 <div style="width: 65%; float: left;">
     <p>
-        I am an evolutionary biologist and postdoctoral researcher in the department of <a href="https://ib.berkeley.edu/">Integrative Biology</a> at the <a href="http://www.sudmantlab.org/index.html">Sudmant lab</a> at UC Berkeley.
-    </p>
-
-    <p>
-        I received my PhD in <a href="https://www.biodiv.pt/en/phd-programme/about/">Biodiversity, Genetics and Evolution</a> having been advised by <a href="https://cibio.up.pt/people/details/mrgodinho">Raquel Godinho</a> at the University of Porto, and <a href="https://nielsen-lab.github.io/">Rasmus Nielsen</a> at UC Berkeley.
+        I am an evolutionary biologist and postdoctoral researcher at the department of Integrative Biology at UC Berkeley, working with <a href="http://www.sudmantlab.org/index.html">Peter Sudmant</a>.
     </p>
     <p>
-        When I am not doing research, I enjoy being in close contact with nature and sharing all the amazing wonders our planet has to offer with the people I love. I was born in Portugal, and I speak fluently portuguese, english, spanish and a bit of french. Feel free to contact me in any of these languages.
+        I received my PhD in Biodiversity, Genetics and Evolution having been advised by Raquel Godinho at the University of Porto, and Rasmus Nielsen at UC Berkeley.
+    </p>
+    <p>
+        When I am not doing <a href="https://joanocha.github.io/projects/">research</a>, I enjoy being in close contact with nature and sharing all the amazing wonders our planet has to offer with the people I love. I was born in Portugal, and I speak fluently portuguese, english, spanish and a bit of french. Feel free to contact me in any of these languages.
     </p>
 </div>
 
