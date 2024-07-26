@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
         I received my PhD in Biodiversity, Genetics and Evolution having been advised by Raquel Godinho at the University of Porto, and Rasmus Nielsen at UC Berkeley.
     </p>
     <p>
-        When I am not doing <a href="https://joanocha.github.io/projects/">research</a>, I enjoy being in close contact with nature and sharing all the amazing wonders our planet has to offer with the people I love. I was born in Portugal, and I speak fluently portuguese, english, spanish and a bit of french. Feel free to contact me in any of these languages.
+        When I am not doing <a href="https://joanocha.github.io/projects/">research</a>, I enjoy being in close contact with nature and sharing all the amazing wonders our planet has to offer with the people I love. 
     </p>
 </div>
 
